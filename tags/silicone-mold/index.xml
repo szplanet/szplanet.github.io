@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silicone Mold on SZ Planet</title>
+    <link>https://szplanet.github.io/tags/silicone-mold/</link>
+    <description>Recent content in Silicone Mold on SZ Planet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://szplanet.github.io/tags/silicone-mold/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Piggy Emoji Mold</title>
+      <link>https://szplanet.github.io/2019/04/01/3d-piggy-emoji-print/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://szplanet.github.io/2019/04/01/3d-piggy-emoji-print/</guid>
+      <description>Step 1: Prepare CAD Model I used SOLIDWORKS to create a piggy sketch. Rather than a simple 3D printed part, I added a cylinder shaped pouring cup to make sure that I can pour liquids in the mold later. Additionally, I added a small riser for air to escape after liquids are pour in. To make a clean cast, I introduced some draft to the part as well to reduce sharp edges so that the parts can come off easily.</description>
+    </item>
+    
+  </channel>
+</rss>

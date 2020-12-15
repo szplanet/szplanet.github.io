@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SZ Planet</title>
+    <link>https://szplanet.github.io/post/</link>
+    <description>Recent content in Posts on SZ Planet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://szplanet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chiffon Cake (戚风蛋糕)</title>
+      <link>https://szplanet.github.io/2020/11/12/chiffon-cake-recipe/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://szplanet.github.io/2020/11/12/chiffon-cake-recipe/</guid>
+      <description>This is a very light and fluffy cake recipe. Preparation time is 15 – 20 minutes and cook time is around 1 hour. The pictured cake was made using a 9” angle food cake pan, but the pan could be of any size and shape. I’m still experimenting and tweaking this recipe to get an optimal cake. Meanwhile, this one is pretty delicious, so enjoy! Ingredients For</description>
+    </item>
+    
+    <item>
+      <title>Cat Cross-Stitching</title>
+      <link>https://szplanet.github.io/2020/07/02/cat-cross-stitching/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://szplanet.github.io/2020/07/02/cat-cross-stitching/</guid>
+      <description>I love making things with my hands and cross-stitching has always been something that I wanted to try. During the past couple months, I had time to take a pause in the weekly travels, so I picked up a cross-stitching kit. As a “crazy cat lady”, I decided to go with this cat pattern. At the time of purchase, I thought to myself that I can totally knock this off in a couple days because it looked like a straightforward beginner level kit.</description>
+    </item>
+    
+    <item>
+      <title>Alexandria, VA</title>
+      <link>https://szplanet.github.io/2019/11/19/alexandria-va-trip/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://szplanet.github.io/2019/11/19/alexandria-va-trip/</guid>
+      <description>About Alexandria, VA Founded in 1749, Alexandria was a tobacco trading post and because of its unique location along the Potomac river, it was one of the busiest ports in America. Upon arrival at night, I was immediately drawn by the colonial style brick houses, walkable streets, and a variety of boutique shops and restaurants. Quaint is the word I would use – this is exactly what I envisioned a historic New England town would look like!</description>
+    </item>
+    
+    <item>
+      <title>3D Printed Phone Case with GoPro Mount</title>
+      <link>https://szplanet.github.io/2019/09/22/3d-phone-case-gopro-mount-print/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://szplanet.github.io/2019/09/22/3d-phone-case-gopro-mount-print/</guid>
+      <description>This print is done on Stratasys Connex 350. Inspiration: https://www.youtube.com/watch?v=_oog8Lo4rPo</description>
+    </item>
+    
+    <item>
+      <title>Piggy Emoji Mold</title>
+      <link>https://szplanet.github.io/2019/04/01/3d-piggy-emoji-print/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://szplanet.github.io/2019/04/01/3d-piggy-emoji-print/</guid>
+      <description>Step 1: Prepare CAD Model I used SOLIDWORKS to create a piggy sketch. Rather than a simple 3D printed part, I added a cylinder shaped pouring cup to make sure that I can pour liquids in the mold later. Additionally, I added a small riser for air to escape after liquids are pour in. To make a clean cast, I introduced some draft to the part as well to reduce sharp edges so that the parts can come off easily.</description>
+    </item>
+    
+    <item>
+      <title>Read Me</title>
+      <link>https://szplanet.github.io/post/readme/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://szplanet.github.io/post/readme/</guid>
+      <description>Test test</description>
+    </item>
+    
+  </channel>
+</rss>
